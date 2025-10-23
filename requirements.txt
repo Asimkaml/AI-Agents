@@ -3,7 +3,8 @@ uvicorn
 streamlit  
 plotly  
 websocket-client  
-websockets pandas   
+websockets 
+pandas     
 numpy   
 scikit-learn   
 matplotlib   
