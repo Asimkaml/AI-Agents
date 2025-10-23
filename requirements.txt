@@ -1,0 +1,12 @@
+fastapi  
+uvicorn  
+streamlit  
+plotly  
+websocket-client  
+websockets pandas   
+numpy   
+scikit-learn   
+matplotlib   
+seaborn   
+sqlite3   
+requests  
